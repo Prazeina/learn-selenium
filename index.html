@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <title> For Selenium </title>
+</head>
+<body>
+    <h1> Simple page for the selenium automation</h1>
+    <p>Genre of anime that I want to watch</p>
+    <div class= "genre">
+        <input type="radio" id="yaoi">
+        <label for="yaoi"> Yaoi</label><br>
+        <input type="radio" id="shoujo">
+        <label for="shoujo"> Shoujo</label><br>
+        <input type="radio" id="mahou">
+        <label for="mahou">Mahou</label><br><br>
+    </div>
+    
+    <p> Let's select the year of which we want to view</p>
+
+    <div id="dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Year
+        <span class="caret"></span>
+        </button>
+        <ul id="dropdown-menu">
+          <li><a href="#">2021</a></li>
+          <li><a href="#">2020</a></li>
+          <li><a href="#">2019</a></li>
+        </ul>
+    </div>
+
+    <div class= "status">
+        <input type="checkbox" id="completed">
+        <label for="completed"> Completed </label><br>
+        <input type="checkbox" id="plan-to-watch">
+        <label for="plan-to-watch"> Planning to watch </label><br>
+        <input type="checkbox" id="onHold">
+        <label for="onHold">On Hold</label><br><br>
+    </div>    
+    
+    <label for="feedback"> Feedback </label>
+    <input type="text" id="feedback"> <br>
+
+    <input type="submit" value="Submit" id="submit"> <br>
+
+    <a href="https://myanimelist.net/anime/genre/25/Shoujo"> Shoujo Anime List </a>
+</body>     
+</html>
