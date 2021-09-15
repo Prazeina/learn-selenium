@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'selenium-webdriver'
-require "chromedriver-helper"
+require 'chromedriver-helper'
 
 $feedback = "Yaho it is nice"
 # object for chrome
@@ -54,7 +54,7 @@ sleep 4
 
 #click on search link
 if driver.find_element(:link_text, 'Shoujo Anime List').displayed?
-    driver.find_element(:xpath, 'Shoujo Anime List').send_keys 'It is nice YAHO'
+    driver.find_element(:css, 'Shoujo Anime List').send_keys 'It is nice YAHO'
     puts "Shoujo Anime is displayed"
 else
     puts "Shoujo Anime is not displayed"

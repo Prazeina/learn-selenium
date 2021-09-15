@@ -14,4 +14,10 @@ Okies. Here are the links that I found interesting.
 * And the official documentation 
   https://www.selenium.dev/selenium/docs/api/rb/Selenium/WebDriver.html
 
+Website that I used to automate
+https://www.phptravels.net/
+
+You can find more here. May be there's ssome more but I prefer thiss :KEKKK:
+https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/#5httpautomationpracticecomindexphp
+
 
