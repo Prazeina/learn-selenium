@@ -8,11 +8,11 @@ In coming days, I'll also upload codes from my learning phase. Trust me its gonn
 
 Okies. Here are the links that I found interesting.
 
+* And the official documentation : https://www.selenium.dev/selenium/docs/api/rb/Selenium/WebDriver.html
+* https://www.selenium.dev/documentation/overview/
 * https://www.browserstack.com/docs/automate/selenium/getting-started/ruby/rspec 
 * And this one is the video from TAU
   https://testautomationu.applitools.com/selenium-webdriver-with-ruby/chapter4.1.html 
-* And the official documentation 
-  https://www.selenium.dev/selenium/docs/api/rb/Selenium/WebDriver.html
 
 Website that I used to automate
 https://www.phptravels.net/
@@ -20,4 +20,7 @@ https://www.phptravels.net/
 You can find more here. May be there's ssome more but I prefer thiss :KEKKK:
 https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/#5httpautomationpracticecomindexphp
 
+Some of the sites referred by TAU friends
+https://ultimateqa.com/dummy-automation-websites/
+https://kitchen.applitools.com/
 
