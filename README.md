@@ -14,13 +14,18 @@ Okies. Here are the links that I found interesting.
 * And this one is the video from TAU
   https://testautomationu.applitools.com/selenium-webdriver-with-ruby/chapter4.1.html 
 
-Website that I used to automate
-https://www.phptravels.net/
-
-You can find more here. May be there's ssome more but I prefer thiss :KEKKK:
-https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/#5httpautomationpracticecomindexphp
+To practice selenium here are few sites. May be there's ssome more but I prefer thiss :KEKKK:
+* https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/#5httpautomationpracticecomindexphp
 
 Some of the sites referred by TAU friends
-https://ultimateqa.com/dummy-automation-websites/
-https://kitchen.applitools.com/
+* https://ultimateqa.com/dummy-automation-websites/
+* https://kitchen.applitools.com/
 
+Other Sites that'll be helpful
+* https://www.browserstack.com/docs/automate/selenium/getting-started/ruby#run-your-first-test
+* https://www.selenium.dev/selenium/docs/api/rb/Selenium/WebDriver/PointerActions.html#drag_and_drop-instance_method
+* https://www.selenium.dev/documentation/webdriver/js_alerts_prompts_and_confirmations/
+* https://relishapp.com/rspec/rspec-core/docs/command-line
+* https://blog.testproject.io/2016/12/21/selenium-with-ruby/
+* https://www.rubydoc.info/gems/selenium-webdriver/Selenium%2FWebDriver%2FElement:tag_name
+* https://www.lambdatest.com/blog/selenium-click-button-with-examples/
