@@ -21,6 +21,12 @@ Some of the sites referred by TAU friends
 * https://ultimateqa.com/dummy-automation-websites/
 * https://kitchen.applitools.com/
 
+I thought providing links for each day is much more helpful right?
+* https://snippets.aktagon.com/snippets/505-how-to-capture-screenshots-with-selenium-ruby-and-firefox
+* https://www.seleniumstutorial.com/taking-screenshots-selenium-ruby/
+* https://blog.francium.tech/take-screenshot-using-ruby-selenium-webdriver-b18802822075
+* https://stackoverflow.com/questions/39699952/how-to-take-screenshot-in-selenium-webdriver-with-ruby-with-date-and-time-includ
+
 Other Sites that'll be helpful
 * https://www.browserstack.com/docs/automate/selenium/getting-started/ruby#run-your-first-test
 * https://www.selenium.dev/selenium/docs/api/rb/Selenium/WebDriver/PointerActions.html#drag_and_drop-instance_method
