@@ -22,6 +22,7 @@ Some of the sites referred by TAU friends
 * https://kitchen.applitools.com/
 
 I thought providing links for each day is much more helpful right?
+# Day 9
 * https://snippets.aktagon.com/snippets/505-how-to-capture-screenshots-with-selenium-ruby-and-firefox
 * https://www.seleniumstutorial.com/taking-screenshots-selenium-ruby/
 * https://blog.francium.tech/take-screenshot-using-ruby-selenium-webdriver-b18802822075
