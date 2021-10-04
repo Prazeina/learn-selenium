@@ -63,10 +63,12 @@ It's straightforward right?
 * https://www.selenium.dev/documentation/support_packages/mouse_and_keyboard_actions_in_detail/
 
 # Day 11
-Proper Framework
-* https://www.linkedin.com/pulse/creating-our-own-selenium-ruby-framework-from-scratch/
+Proper Reporting
+* https://community.microfocus.com/adtd/b/sws-alm/posts/advanced-logging-for-your-selenium-tests-with-ruby-and-rspec
+* https://www.softwaretestinghelp.com/extent-reports-selenium-webdriver/
 
 Other Sites that'll be helpful
+* https://www.javatpoint.com/selenium-webdriver-commands
 * https://www.browserstack.com/docs/automate/selenium/getting-started/ruby#run-your-first-test
 * https://www.selenium.dev/selenium/docs/api/rb/Selenium/WebDriver/PointerActions.html#drag_and_drop-instance_method
 * https://www.selenium.dev/documentation/webdriver/js_alerts_prompts_and_confirmations/
